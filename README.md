@@ -2,6 +2,7 @@
 This is a full design and implementation of multinomial  logistic regression to predict if a breast cancer patient should have chemotherapy before or after surgery or should go to multidisciplinary team . 
 * Idea and objectives
 * Dataset
+* Run
 
 # Idea and objective
 This model is made for an application that is dedicated to egyptian breast cancer patients of ABC center .
@@ -16,4 +17,10 @@ This datset is auto generated  with respect to the medical rulesby cairo univeri
 
 The dataset is labeled and revised by M.D. Omar Sherif Omar
 
+ #Run
+ Dependencies
+ - matplotlib.pyplot
+ - Pandas
+ - Numpy
+ - sklearn.model_selection.train_test_split
 
