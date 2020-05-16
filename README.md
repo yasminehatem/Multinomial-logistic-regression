@@ -12,7 +12,8 @@ This datset is auto generated  with respect to the medical rulesby cairo univeri
 1. Yasmine Hatem
 2. Nermine Safwat
 3. Ahmed Khalife
-4. Ahmed Khales
+4. Ahmed Khaled
+
 The dataset is labeled and revised by M.D. Omar Sherif Omar
 
 
