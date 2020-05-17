@@ -28,7 +28,7 @@ the classification problem has 3 ouputs YES , NO or MDT
  
  One-Hot Encoding is a method to represent the target values into a binary representation. For every feature the one-hot-encoding matrix is with the values of 0 and the 1 for the target class. The total number of values in the one-hot-encoding matrix is equal to the number of classes which is 3 in this dataset(yes\no\MDT)
  
- # Ouptut and evaluation
+ # Output and evaluation
  Due to github non ability to render notebooks most of time , samples of output are screenshoted below .
  
  The accuracy of the training set and testing set is not around a stable range as the dataset isn't large and the training/testing split is random every run . One run is shown below
