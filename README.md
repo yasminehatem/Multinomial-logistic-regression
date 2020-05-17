@@ -41,7 +41,7 @@ the classification problem has 3 ouputs YES , NO or MDT
  
  To fix that I implemented a cross validation function to get the average accuracy and the results are shown below :
  
-![alt text](https://github.com/yasminehatem/Multinomial-logistic-regression/blob/master/output%20images/training%20and%20testing%20sets%20accuracy.PNG)
+![alt text](https://github.com/yasminehatem/Multinomial-logistic-regression/blob/master/output%20images/avg%20training%20and%20testing%20set%20after%20cross-validation.PNG)
 
 # Dataset
 This datset is auto generated  with respect to the medical standars . The students working on this data are cairo univeristy students:
