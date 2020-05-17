@@ -26,11 +26,16 @@ the classification problem has 3 ouputs YES , NO or MDT
  # Ouptut and evaluation
  Due to github non ability to render notebooks most of time , samples of output are screenshoted below .
  The accuracy of the training set and testing set is not around a stable range as the dataset isn't large and the training/testing split is random every run . One run is shown below
+ 
  ![alt text](https://github.com/yasminehatem/Multinomial-logistic-regression/blob/master/output%20images/training%20and%20testing%20sets%20accuracy.PNG)
  
  The prediction on the testing set is shown below using matplotlib
+ 
+ ![alt text](https://github.com/yasminehatem/Multinomial-logistic-regression/blob/master/output%20images/testing%20set%20accuracy%20plot.png)
+ 
  To fix that I implemented a cross validation function to get the average accuracy and the results are shown below :
-
+ 
+![alt text](https://github.com/yasminehatem/Multinomial-logistic-regression/blob/master/output%20images/training%20and%20testing%20sets%20accuracy.PNG)
 
 # Dataset
 This datset is auto generated  with respect to the medical standars . The students working on this data are cairo univeristy students:
